@@ -1,1 +1,9 @@
-hello world
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: blue;
+}
+
+/* Add more styles as needed */
